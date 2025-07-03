@@ -7,13 +7,15 @@
 - ⚙️ Tecnologias: Git, Github, Docker, Dbeaver.
 
   ## 📈 Estatísticas GitHub
-
-![Thauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📫 Entre em contato
-- ✉️ thauanrocha123@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thauan-fabricio-da-rocha-25856121b/)
+📧 **Email:** [thauanrocha123@gmail.com](mailto:thauanrocha123@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/thauan-fabricio-da-rocha-25856121b](https://www.linkedin.com/in/thauan-fabricio-da-rocha-25856121b/)
+
 <!--
 **thauanhub/thauanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
