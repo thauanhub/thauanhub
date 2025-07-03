@@ -7,10 +7,9 @@
 - ⚙️ Tecnologias: Git, Github, Docker, Dbeaver.
 
   ## 📈 Estatísticas GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight" />
-</p>
+![Thauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight)
+
 
 ## 📫 Entre em contato
 📧 **Email:** [thauanrocha123@gmail.com](mailto:thauanrocha123@gmail.com)  
