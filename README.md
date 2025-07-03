@@ -11,9 +11,10 @@
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight)
 
 
-## 📫 Entre em contato
-📧 **Email:** [thauanrocha123@gmail.com](mailto:thauanrocha123@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/thauan-fabricio-da-rocha-25856121b](https://www.linkedin.com/in/thauan-fabricio-da-rocha-25856121b/)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/thauan-fabricio-da-rocha-25856121b/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:thauanrocha123@gmail.com)
 
 <!--
 **thauanhub/thauanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
