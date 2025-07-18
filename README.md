@@ -3,7 +3,7 @@
 🎓 Bacharelando de **Sistemas de Informação** na Universidade Federal do Estado do Rio de Janeiro
 
 ## 🛠️ Conhecimento
-- 💻 Linguagens de programação: Java, C, Javascript, SQL.
+- 💻 Linguagens de programação: Java, C, Javascript.
 - ⚙️ Tecnologias: Git, Github, Docker, Dbeaver.
 
   ## 📈 Estatísticas GitHub
