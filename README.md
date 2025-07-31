@@ -8,7 +8,7 @@
 
   ## 📈 Estatísticas GitHub
 ![Thauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight)
-![Top Linguagens]([https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&cache_seconds=30](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight&cache_seconds=30))
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight&cache_seconds=30)
 
 
 
