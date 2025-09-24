@@ -3,8 +3,8 @@
 🎓 Bacharelando de **Sistemas de Informação** na Universidade Federal do Estado do Rio de Janeiro
 
 ## 🛠️ Conhecimento
-- 💻 Linguagens de programação: Java, C, C++, Javascript.
-- ⚙️ Tecnologias: Git, Github, Docker, Dbeaver.
+- 💻 Linguagens de programação: Java, C, C++, Javascript, Python, SQL.
+- ⚙️ Tecnologias: Git, Github, Docker, Dbeaver, HTML, CSS.
 
   ## 📈 Estatísticas GitHub
 ![Thauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight)
