@@ -7,7 +7,7 @@
 - ⚙️ Tecnologias: Git, Github, Docker, Dbeaver, HTML, CSS.
 
   ## 📈 Estatísticas GitHub
-![GitHub Stats Atualizado](https://github-readme-stats.vercel.app/api?username=thauanhub&show_icons=true&theme=tokyonight&hide_border=true&v=123)
+![Stats Alternativo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thauanhub&theme=tokyonight)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanhub&layout=compact&theme=tokyonight&cache_seconds=5)
 
 
