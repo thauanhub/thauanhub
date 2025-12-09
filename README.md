@@ -8,7 +8,7 @@
 
   ## 📈 Estatísticas GitHub
 ![Stats Alternativo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thauanhub&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thauanhub&theme=dracula)
+![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thauanhub&layout=compact&hide_border=true&theme=dracula)
 
 ## 📫 Contato
 
